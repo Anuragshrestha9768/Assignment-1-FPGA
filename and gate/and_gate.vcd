@@ -1,0 +1,35 @@
+$date
+	Thu Jun 18 15:11:49 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module and_gate_tb $end
+$scope module uut $end
+$var wire 1 ! a $end
+$var wire 1 " b $end
+$var wire 1 # z $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0#
+0"
+0!
+$end
+#100000
+1"
+#200000
+0"
+1!
+#300000
+1#
+1"
+#400000
