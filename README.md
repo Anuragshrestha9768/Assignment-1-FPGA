@@ -75,7 +75,7 @@ The culmination of the session was the 8-bit ALU implementation. While we had pr
 ### Project Structure
 
 The repository follows a hierarchical organization, starting from basic components and building up to the final ALU implementation.
-
+```
 fpga-assignment-1/
 │
 ├── and gate/                          # Basic logic gates
@@ -124,7 +124,7 @@ fpga-assignment-1/
     ├── bit8_ALU.out                   # Compiled output
     ├── a.out                          # Alternative compilation output
     └── alu_8bit.vcd                   # Waveform dump
-
+```
 #### Build Progression
 
 The directory structure shows a clear learning progression:
